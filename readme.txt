@@ -1,0 +1,1 @@
+window端的socketServer，用于接收txt文件
